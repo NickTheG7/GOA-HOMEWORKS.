@@ -1,0 +1,23 @@
+*{
+    list-style: none;
+}
+#nav1{
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    user-select: none;
+}
+#nav2{
+    display: flex;
+    cursor: pointer;
+    justify-content: space-evenly;
+    user-select: none;
+    align-items: center;
+}
+button{
+    border: 3px solid rgb(255, 255, 0);
+    background: transparent;
+    height: 34px;
+    cursor: pointer;
+    padding: 0 15px;
+}

@@ -1,0 +1,24 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+#firstdiv{
+    background-color: lightskyblue;
+    width: 200px;
+    border-radius: 20px;
+    height: 370px;
+    margin: auto;
+    margin-top: 10%;
+}
+#firstform{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+input{
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+button{
+    border-radius: 5px;
+    background-color: red;
+    font-style: italic;
+    font-family: cursive;
+    color: white;
+} */

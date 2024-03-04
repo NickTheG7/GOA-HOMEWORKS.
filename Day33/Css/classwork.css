@@ -1,0 +1,86 @@
+/* .topnav {
+    background-color: #00293d;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 144.5px;
+    margin: auto;
+  }
+  
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(255, 0, 217);
+  }
+  
+
+  .topnav a.active {
+    background-color: #000207;
+    color: rgb(255, 255, 255);
+  }
+  #Home{
+    background-color: lightgray;
+    width: 480px;
+    border-radius: 15px;
+    text-align: center;
+    margin: auto;
+    
+  }
+  header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+
+  }
+  #contact{
+    height: 1000px;
+    background-color: #000207;
+  }
+  
+  #firstimg{
+    height: 130px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  #seconddiv{
+    background-color: lightseagreen;
+    border-radius: 10px;
+    width:1000px;
+    height: 150px;
+    margin-left: 17%;
+  }
+  #thirddiv{
+    background-color: lightseagreen;
+    border-radius: 10px;
+    width:1000px;
+    height: 150px;
+    margin-left: 17%;
+  }
+  #secondimg{
+    height: 130px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  #forthdiv{
+    background-color: lightseagreen;
+    border-radius: 10px;
+    width:1000px;
+    height: 150px;
+    margin-left: 17%;
+  }
+  #thirdimg{
+    height: 130px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+  } */

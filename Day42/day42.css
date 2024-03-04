@@ -1,0 +1,21 @@
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+div{
+    width: 370px;
+    height: 230px;
+    background-color: red;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 5s;
+}
+div:hover{
+    transform: rotate(-90deg);
+    transform-origin: bottom left;
+} */
